@@ -4,13 +4,13 @@ body{
     overflow-x: hidden; 
 }
 
-.box{
-    width: 99%;
+.box {
+    width: 90vw;
     height: 100%;
     background-color: rgb(59, 59, 59);
-    position:absolute;
+    position: absolute;
     top: 7%;
-  }
+}
 
 a{
     color: rgb(225,225,225);
