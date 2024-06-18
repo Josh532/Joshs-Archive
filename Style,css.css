@@ -22,21 +22,21 @@ a{
 }
 
 ul {
+    display: flex;
     margin: 0;
     padding: 0;
-    top: 10%;
-  }
+    list-style-type: none;
+}
 
-  .navbar{
-    letter-spacing: 0px;
-    width: 99%;
+.navbar {
+    width: 90vw; /* Adjust as needed */
     height: 5%;
     background-color: rgb(73, 73, 73);
     position: absolute;
     top: 1%;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 0%;
-  }
+    padding: 0;
+}
 
   li{
     display: inline;
