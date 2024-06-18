@@ -4,13 +4,13 @@ body{
     overflow-x: hidden; 
 }
 
-.box {
-    width: 90vw;
+.box{
+    width: 99%;
     height: 100%;
     background-color: rgb(59, 59, 59);
-    position: absolute;
+    position:absolute;
     top: 7%;
-}
+  }
 
 a{
     color: rgb(225,225,225);
@@ -22,21 +22,21 @@ a{
 }
 
 ul {
-    display: flex;
     margin: 0;
     padding: 0;
-    list-style-type: none;
-}
+    top: 10%;
+  }
 
-.navbar {
-    width: 90vw; /* Adjust as needed */
+  .navbar{
+    letter-spacing: 0px;
+    width: 99%;
     height: 5%;
     background-color: rgb(73, 73, 73);
     position: absolute;
     top: 1%;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 0;
-}
+    padding: 0%;
+  }
 
   li{
     display: inline;
