@@ -96,3 +96,10 @@ ul {
   color: white;
   padding-left:1%;
 }
+
+.Link5{
+  font-size: 25px;
+  color: white;
+  padding-left:1%;
+  display:flex;
+}
